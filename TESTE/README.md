@@ -1,1 +1,2 @@
-echo "teste" >> README.md
+cho "teste" >> README.md
+
